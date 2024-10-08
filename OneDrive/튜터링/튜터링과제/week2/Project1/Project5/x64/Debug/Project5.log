@@ -1,0 +1,6 @@
+﻿  5.c
+C:\Users\yuda0\OneDrive\튜터링\튜터링과제\week2\Project1\Project5\5.c(7,17): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+      C:\Users\yuda0\OneDrive\튜터링\튜터링과제\week2\Project1\Project5\5.c(7,17):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  
+  Project5.vcxproj -> C:\Users\yuda0\OneDrive\튜터링\튜터링과제\week2\Project1\x64\Debug\Project5.exe

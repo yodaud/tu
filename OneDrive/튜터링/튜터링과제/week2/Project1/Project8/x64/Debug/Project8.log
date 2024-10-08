@@ -1,0 +1,7 @@
+﻿  8.c
+C:\Users\yuda0\OneDrive\튜터링\튜터링과제\week2\Project1\Project8\8.c(16,9): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\yuda0\OneDrive\튜터링\튜터링과제\week2\Project1\Project8\8.c(16,9): warning C4313: 'printf': 서식 문자열의 '%c'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\yuda0\OneDrive\튜터링\튜터링과제\week2\Project1\Project8\8.c(17,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\yuda0\OneDrive\튜터링\튜터링과제\week2\Project1\Project8\8.c(17,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\yuda0\OneDrive\튜터링\튜터링과제\week2\Project1\Project8\8.c(18,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
+  Project8.vcxproj -> C:\Users\yuda0\OneDrive\튜터링\튜터링과제\week2\Project1\x64\Debug\Project8.exe
