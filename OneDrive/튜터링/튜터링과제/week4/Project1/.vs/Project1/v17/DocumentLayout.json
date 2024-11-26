@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{241632BC-61E1-4927-9F06-8E565A1E32C9}|Project8\\Project8.vcxproj|C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project8\\8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{241632BC-61E1-4927-9F06-8E565A1E32C9}|Project8\\Project8.vcxproj|solutionrelative:Project8\\8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BA4643-ACD1-45FF-8E16-E468B35AF98F}|Project7\\Project7.vcxproj|C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project7\\7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78BA4643-ACD1-45FF-8E16-E468B35AF98F}|Project7\\Project7.vcxproj|solutionrelative:Project7\\7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4726F1-1D63-42D9-9CE7-2EED71C842B5}|Project6\\Project6.vcxproj|C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project6\\6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D4726F1-1D63-42D9-9CE7-2EED71C842B5}|Project6\\Project6.vcxproj|solutionrelative:Project6\\6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F898583-1A88-4E25-A715-369CBBCA7D71}|Project5\\Project5.vcxproj|C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project5\\5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F898583-1A88-4E25-A715-369CBBCA7D71}|Project5\\Project5.vcxproj|solutionrelative:Project5\\5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4080A1EA-C9B8-4ED8-9659-3124AEE36ED5}|Project4\\Project4.vcxproj|C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4080A1EA-C9B8-4ED8-9659-3124AEE36ED5}|Project4\\Project4.vcxproj|solutionrelative:Project4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980F672A-0343-483E-8E76-7A71D96B9A2B}|Project3\\Project3.vcxproj|C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{980F672A-0343-483E-8E76-7A71D96B9A2B}|Project3\\Project3.vcxproj|solutionrelative:Project3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04111B81-D35B-483E-8B2C-3798B0CEEC16}|Project2\\Project2.vcxproj|C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04111B81-D35B-483E-8B2C-3798B0CEEC16}|Project2\\Project2.vcxproj|solutionrelative:Project2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F19388-C711-4B4F-98E0-CFF609110760}|Project1\\Project1.vcxproj|C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9F19388-C711-4B4F-98E0-CFF609110760}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "8.c",
+              "DocumentMoniker": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project8\\8.c",
+              "RelativeDocumentMoniker": "Project8\\8.c",
+              "ToolTip": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project8\\8.c",
+              "RelativeToolTip": "Project8\\8.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-05T09:17:54.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "7.c",
+              "DocumentMoniker": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project7\\7.c",
+              "RelativeDocumentMoniker": "Project7\\7.c",
+              "ToolTip": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project7\\7.c",
+              "RelativeToolTip": "Project7\\7.c",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-05T09:10:56.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "6.c",
+              "DocumentMoniker": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project6\\6.c",
+              "RelativeDocumentMoniker": "Project6\\6.c",
+              "ToolTip": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project6\\6.c",
+              "RelativeToolTip": "Project6\\6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-05T09:07:01.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "5.c",
+              "DocumentMoniker": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project5\\5.c",
+              "RelativeDocumentMoniker": "Project5\\5.c",
+              "ToolTip": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project5\\5.c",
+              "RelativeToolTip": "Project5\\5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-05T09:02:35.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "4.c",
+              "DocumentMoniker": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project4\\4.c",
+              "RelativeDocumentMoniker": "Project4\\4.c",
+              "ToolTip": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project4\\4.c",
+              "RelativeToolTip": "Project4\\4.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-05T08:59:36.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "3.c",
+              "DocumentMoniker": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project3\\3.c",
+              "RelativeDocumentMoniker": "Project3\\3.c",
+              "ToolTip": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project3\\3.c",
+              "RelativeToolTip": "Project3\\3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-05T08:55:38.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "2.c",
+              "DocumentMoniker": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project2\\2.c",
+              "RelativeDocumentMoniker": "Project2\\2.c",
+              "ToolTip": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project2\\2.c",
+              "RelativeToolTip": "Project2\\2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-05T08:47:47.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project1\\1.c",
+              "RelativeDocumentMoniker": "Project1\\1.c",
+              "ToolTip": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\Project1\\Project1\\1.c",
+              "RelativeToolTip": "Project1\\1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-05T08:42:34.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
