@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\\uACFC\uC81C\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{062D7331-C495-4028-B146-286111AD710D}|Project3\\Project3.vcxproj|C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\\uACFC\uC81C\\Project3\\Project3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{062D7331-C495-4028-B146-286111AD710D}|Project3\\Project3.vcxproj|solutionrelative:Project3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3.c",
+              "DocumentMoniker": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\\uACFC\uC81C\\Project3\\Project3\\3.c",
+              "RelativeDocumentMoniker": "Project3\\3.c",
+              "ToolTip": "C:\\Users\\yuda0\\OneDrive\\\uD29C\uD130\uB9C1\\\uD29C\uD130\uB9C1\uACFC\uC81C\\week4\\\uACFC\uC81C\\Project3\\Project3\\3.c",
+              "RelativeToolTip": "Project3\\3.c",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-26T06:17:35.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
